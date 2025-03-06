@@ -13,48 +13,54 @@ https://animoro.netlify.app/
 
 🔥 Hauptfunktionen
 Staffel Downloader 🌟
-Ganze Staffeln in einem Rutsch herunterladen. 📦
-Automatische Episoden-Erkennung. 🤖
-Sprachen nach Wahl (Deutsch, Eng-Sub, etc.). 🎤
+Lade ganze Staffeln in einem Rutsch herunter 📦, mit automatischer Episoden-Erkennung 🤖 und Sprachen nach Wahl (Deutsch, Eng-Sub, etc.) 🎤.
+
 Folgen Downloader 🎬
-Einzelne Episoden gezielt herunterladen. 🎯
-Staffel & Folge frei wählbar. 🕹️
-Ruckzuck erledigt. ⚡
+Lade einzelne Episoden gezielt herunter 🎯, wähle Staffel & Folge frei 🕹️ und alles wird ruckzuck erledigt ⚡.
+
 Sprachoptionen 🌐
+
 Deutsch (Synchronisation) 🇩🇪
 Deutsch (Untertitel) 📝
 Englisch (Synchronisation) 🇬🇧
 Englisch (Untertitel) 📑
 Download-Provider 🚀
+
 VOE: Schnell & stabil 🌩️
 Streamtape: Riesige Auswahl 📼
 Vidoza: Plan B 🔧
 🎮 Verwendung
-Programm starten: Öffne AniMoro. 🚀
-Tab wählen: Entscheide dich für "Staffel" oder "Folgen". 🎯
+
+Programm starten: Öffne AniMoro 🚀
+Tab wählen: Entscheide dich für "Staffel" oder "Folgen" 🎯
 Staffel Download
-Anime/Serie eingeben (z. B. "One-Piece"). ✍️
-Typ (Anime/Serie) wählen. 📺
-Sprache aussuchen. 🎤
-Provider picken (VOE, Streamtape, etc.). 🌐
-Staffel (oder alle) wählen. 📦
-"Download starten" klicken. ⬇️
+
+Anime/Serie eingeben (z. B. "One-Piece") ✍️
+Typ (Anime/Serie) wählen 📺
+Sprache aussuchen 🎤
+Provider picken (VOE, Streamtape, etc.) 🌐
+Staffel (oder alle) wählen 📦
+"Download starten" klicken ⬇️
 Einzelfolgen
-Anime/Serie eingeben. ✍️
-Typ (Anime/Serie) wählen. 📺
-Sprache festlegen. 🎤
-Staffel & Folge auswählen. 🎬
-Provider wählen. 🌐
-"Folge runterladen" drücken. ⬇️
+
+Anime/Serie eingeben ✍️
+Typ (Anime/Serie) wählen 📺
+Sprache festlegen 🎤
+Staffel & Folge auswählen 🎬
+Provider wählen 🌐
+"Folge runterladen" drücken ⬇️
 💡 Tipps & Tricks
 Speed-Tipp:
+
 VOE für Einzelfolgen ⚡
 Streamtape für Staffeln 📦
 Fehler beheben:
+
 Internetverbindung prüfen 📶
 Anderen Provider testen 🔄
 Namen exakt schreiben (z. B. "One-Piece" statt "One Piece") ✅
 Pro-Tipp:
+
 Nutze Bindestriche für bessere Ergebnisse ✍️
 Wähle den Provider je nach Angebot 🌐
 
