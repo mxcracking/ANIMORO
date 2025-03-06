@@ -1,5 +1,3 @@
-Hier ist ein deutsches README für das Projekt ANIMORO, basierend auf der bereitgestellten HTML-Beschreibung. Es ist für GitHub optimiert und in Markdown formatiert:
-
 AniMoro - Dein Anime & Serien Downloader 🌟
  
 
